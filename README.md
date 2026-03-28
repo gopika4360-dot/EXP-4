@@ -55,6 +55,9 @@ Rectifier without filter
 ![WhatsApp Image 2026-03-28 at 10 44 47 AM (2)](https://github.com/user-attachments/assets/feb35ff9-e6c5-4973-8f02-87801f9c91db)
 
 WAVEFORM:
+![WhatsApp Image 2026-03-28 at 10 51 05 AM](https://github.com/user-attachments/assets/e1274690-ba64-4677-9ae8-441834a700f0)
+
+![WhatsApp Image 2026-03-28 at 10 44 48 AM (2)](https://github.com/user-attachments/assets/86e55e52-2bde-4344-a4dc-8e67830ae26c)
 
 
 RESULT:
