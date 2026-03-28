@@ -48,12 +48,12 @@ TABULAR COLUMN
 Rectifier without filter
 ![WhatsApp Image 2026-03-28 at 10 44 46 AM](https://github.com/user-attachments/assets/8d38fd3b-d649-4f8b-b83b-777c409c6448)
 
+Rectifier without filter
+![WhatsApp Image 2026-03-28 at 10 44 47 AM (2)](https://github.com/user-attachments/assets/feb35ff9-e6c5-4973-8f02-87801f9c91db)
+
 TABULAR COLUMN
 ![WhatsApp Image 2026-03-28 at 10 44 48 AM (1)](https://github.com/user-attachments/assets/fbd537ef-cf63-4034-8abd-450542c19eaa)
 
-
-Rectifier without filter
-![WhatsApp Image 2026-03-28 at 10 44 47 AM (2)](https://github.com/user-attachments/assets/feb35ff9-e6c5-4973-8f02-87801f9c91db)
 
 WAVEFORM:
 ![WhatsApp Image 2026-03-28 at 10 51 05 AM](https://github.com/user-attachments/assets/e1274690-ba64-4677-9ae8-441834a700f0)
